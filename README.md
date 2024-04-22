@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
-  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20" padding-top="10px"> <b>Maracaibo, VEnezuela</b>, currently living in <img   
+  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img   
   src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.
 </p>
 <h2><b>💫 About Me</b></h2>
@@ -19,19 +19,17 @@
   Feel free to drop me an email at <b>alejandrofernandezjch@gmail.com</b>.com if you're interested in collaborating or just want to say hi!
 </p>
 <h2>🌐 Socials:</h2>
-<h2> What I'm focusing on</h2>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20945798/kai" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="kaikrmen?igshid=ymmymta2m2y=" height="30" width="40" /></a>   
+</p>
+<h2>🌱 What I'm focusing on</h2>
 <p>
   My actual focus is studying and implementing microservices architectures using frameworks like Hydra, leveraging Redis for caching, and using Apache Kafka to manage high-volume data pipelines. Additionally, I   
   am investigating the use of graph technologies to improve connectivity and data analysis, allowing me to address complex challenges with greater efficiency and accuracy. separated into paragraphs for easy 
   purchase
 </p>
-
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20945798/kai" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="kaikrmen?igshid=ymmymta2m2y=" height="30" width="40" /></a>   
-</p>
-<p></p>
-<h3>Things I code with</h3>
+<h3>💻 Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
