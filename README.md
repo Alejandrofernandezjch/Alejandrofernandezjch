@@ -5,14 +5,14 @@
 </p>
 <h2><b>💫 About Me</b></h2>
 <p>
-  I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color="     
+  I'm a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color="     
   #800080">interpersonal communication, problem solving and conflict management</b>. 
 </p>
 
 </p>
 <h2>👀 A bit more about me</h2>
 <p> 
-  I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
+  I'm currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
 </p>
 <h2>📫 How to reach me</h2>
 <p>
