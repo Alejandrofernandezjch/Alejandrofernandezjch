@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page!</br> </br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.</p>
+<p>Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.</p>
 <h2><b>About Me</b></h2>
-I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b>interpersonal communication, problem solving and conflict management</b>. I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
+I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color=" #800080">interpersonal communication, problem solving and conflict management</b>. I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
 
 </p>
 
