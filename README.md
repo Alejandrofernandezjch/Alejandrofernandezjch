@@ -16,7 +16,7 @@
 </p>
 <h2>📫 How to reach me</h2>
 <p>
-  Feel free to drop me an email at <b>alejandrofernandezjch@gmail.com</b>.com if you're interested in collaborating or just want to say hi!
+  Feel free to drop me an email at <a href="" target="blank">alejandrofernadezjch@gmil.com</a> if you're interested in collaborating or just want to say hi!
 </p>
 <h2>🌐 Socials:</h2>
 <p align="left">
