@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
-  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img   
+  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, Venezuela</b>, currently living in <img   
   src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.
 </p>
 <h2><b>💫 About Me</b></h2>
