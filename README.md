@@ -1,8 +1,28 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.</p>
+<p>
+  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img   
+  src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.
+</p>
 <h2><b>About Me</b></h2>
-I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color=" #800080">interpersonal communication, problem solving and conflict management</b>. I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
+<p>
+  I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color="     
+  #800080">interpersonal communication, problem solving and conflict management</b>. 
+</p>
 
+</p>
+<h2>👀 A bit more about me</h2>
+<p> 
+  I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
+</p>
+<h2>📫 How to reach me</h2>
+<p>
+  Feel free to drop me an email at <b>alejandrofernandezjch@gmail.com</b>.com if you're interested in collaborating or just want to say hi!
+</p>
+<h2>🌐 Socials:</h2>
+
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20945798/kai" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="kaikrmen?igshid=ymmymta2m2y=" height="30" width="40" /></a>   
 </p>
 
 <h3>Things I code with</h3>
@@ -33,4 +53,5 @@ I am a recent graduate in <b>  Computer Engineering</b >with a great interest in
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+<h2>✍️ Random Dev Quote</h2>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
