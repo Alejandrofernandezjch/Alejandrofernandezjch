@@ -20,8 +20,9 @@
 </p>
 <h2>🌐 Socials:</h2>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20945798/kai" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="kaikrmen?igshid=ymmymta2m2y=" height="30" width="40" /></a>   
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" width="40" /></a>   
+<a href="" target="blank"><img width="40" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 <h2>🌱 What I'm focusing on</h2>
 <p>
