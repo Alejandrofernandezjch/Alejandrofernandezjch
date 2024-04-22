@@ -1,7 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="16"/> <b>Maracaibo, VEnezuela</b>, currently living in <img src="https://img.icons8.com/color/48/spain2-circular.png" width="16"/> <b>Oviedo, Spain</b>. </p>
+<p>Welcome to my page!</br> </br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, VEnezuela</b>, currently living in <img src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.</p>
+</br>
+<h2><b>About Me</b></h2>
+</br>
+I am a recent graduate in <b>  Computer Engineering</b >with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b>interpersonal communication, problem solving and conflict management</b>. I am currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
+
+</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
