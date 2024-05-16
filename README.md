@@ -1,25 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>
-  Welcome to my page!</br> I'm Alejandro Fernandez from <img src="https://img.icons8.com/color/48/venezuela-circular.png" width="20"> <b>Maracaibo, Venezuela</b>, currently living in <img   
-  src="https://img.icons8.com/color/48/spain2-circular.png" width="20"/> <b>Oviedo, Spain</b>.
-</p>
-<h2><b>💫 About Me</b></h2>
-<p>
-  I'm a recent graduate in <b> Computer Engineering</b > with a great interest in the field of ICT and programming. I have experience in customer service, where I have developed my soft skills <b color="     
-  #800080">interpersonal communication, problem solving and conflict management</b>. 
-</p>
-</p>
-<h2>👀 A bit more about me</h2>
-<p> 
-  I'm currently pursuing a Vocational <b>  Training in Web Development</b>, which allows me to expand my technical knowledge and apply it to the creation of websites and web applications.
-</p>
-<h2>🌱 What I'm focusing on</h2>
-<p>
-  My actual focus is studying and implementing microservices architectures using frameworks like Hydra, leveraging Redis for caching, and using Apache Kafka to manage high-volume data pipelines. Additionally, I   
-  am investigating the use of graph technologies to improve connectivity and data analysis, allowing me to address complex challenges with greater efficiency and accuracy. separated into paragraphs for easy 
-  purchase
-</p>
-<h3>💻 Things I code with</h3>
+Hey there! Welcome to my page! I'm Alejandro Fernandez, originally from Maracaibo, Venezuela, and now residing in Oviedo, Spain.
+
+XX💫 About Me
+I recently graduated in Computer Engineering and have a keen interest in the field of ICT and programming. Alongside my technical skills, I've honed my soft skills in customer service, particularly in interpersonal communication, problem-solving, and conflict management.
+
+## 👀 A bit more about me
+Currently, I'm pursuing Vocational Training in Web Development, which enables me to broaden my technical expertise and apply it to crafting websites and web applications.
+
+## 🌱 What I'm focusing on
+My primary focus lies in studying and implementing microservices architectures using frameworks like Hydra, incorporating Redis for caching, and employing Apache Kafka for managing high-volume data pipelines. Moreover, I'm delving into the use of graph technologies to enhance connectivity and data analysis, empowering me to tackle intricate challenges with greater efficiency and precision.
+
+## 💻 Things I code with
+My toolkit includes React, Webpack, Docker, GitHub Actions, Google Cloud Platform, TypeScript, Insomnia, Apollo, Heroku, Redux, ReactiveX, GraphQL, Sass, Styled Components, Git, NestJs, Angular, npm, HTML5, Brave browser, Rollup, d3js, Prettier, MongoDB, and Node.js.
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -57,6 +50,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" width="40" /></a>   
 <a href="" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
+
+## 🚗 Driving License
+I'm in the process of obtaining my driving license, which is set to be completed soon.
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
