@@ -51,6 +51,3 @@ My toolkit includes React, Webpack, Docker, GitHub Actions, Google Cloud Platfor
 <a href="" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
