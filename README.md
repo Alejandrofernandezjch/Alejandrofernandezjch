@@ -51,9 +51,6 @@ My toolkit includes React, Webpack, Docker, GitHub Actions, Google Cloud Platfor
 <a href="" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
-## 🚗 Driving License
-I'm in the process of obtaining my driving license, which is set to be completed soon.
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
